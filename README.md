@@ -13,6 +13,7 @@ To use the Data Encryption Standard (DES) algorithm for a practical application,
 
 ## Program:
 #include <stdio.h>
+
 #include <string.h>
 
 // XOR encryption function
